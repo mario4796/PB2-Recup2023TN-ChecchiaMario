@@ -2,7 +2,7 @@ package ar.edu.unlam.pb2;
 
 import java.util.HashSet;
 
-public class Sistema {
+public class Sistema{
 
 	HashSet<Usuario> usuarios = new HashSet<>();
 	HashSet<Usuario> bloqueados = new HashSet<>();
